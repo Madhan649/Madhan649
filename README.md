@@ -1,7 +1,6 @@
-::: {align="center"}
 # 👋 Hi, I'm Madhan Raj G
 
-### 💻 Software Engineer \| QA & Software Testing \| Python \| AI & Machine Learning Enthusiast
+### 💻 Software Engineer \| QA & Software Testing \| Python \| Java \| Selenium \| AI & Machine Learning Enthusiast
 
 *Building reliable software, improving quality, and learning what's
 next.*
@@ -27,15 +26,15 @@ company: Wipro Limited
 interests:
   - Software Testing & Quality Assurance
   - Software Engineering
-  - Python Development
+  - Automation Selenium
   - SQL & Database Testing
-  - Artificial Intelligence & Machine Learning
+  - Test Automation
 
 currently_learning:
   - Artificial Intelligence
   - Machine Learning
   - Python Programming
-  - Test Automation
+  - Artificial Intelligence & Machine Learning
   - AI-powered Applications
 
 motto: "Keep learning, keep building, keep improving."
@@ -59,6 +58,8 @@ motto: "Keep learning, keep building, keep improving."
 -   JavaScript
 -   HTML & CSS
 -   React JS
+-   Appium
+-   Jenkins
 
 ### Software Testing
 
@@ -67,9 +68,10 @@ motto: "Keep learning, keep building, keep improving."
 -   Regression Testing
 -   Web Application Testing
 -   API Testing
--   Selenium --- learning
+-   Selenium 
 -   Playwright --- learning
 -   Postman
+-   Azure DevOps
 
 ### Tools & Platforms
 
@@ -77,6 +79,8 @@ motto: "Keep learning, keep building, keep improving."
 -   Git & GitHub
 -   Visual Studio Code
 -   MySQL
+-   TestRail
+-   qTest
 
 ### AI & Emerging Technologies
 
@@ -89,7 +93,7 @@ motto: "Keep learning, keep building, keep improving."
 
 -   🤖 Artificial Intelligence and Machine Learning
 -   🐍 Python development
--   ⚙️ Test automation
+-   ⚙️ AI (Personal Assistant)
 -   🧠 Building AI-powered applications
 -   🚀 Applying AI to software engineering and testing
 
@@ -103,13 +107,11 @@ building software that is smarter, faster, and more reliable.
 
 ## 🤝 Connect With Me
 
--   **GitHub:** [Add your GitHub profile URL](https://github.com/)
--   **LinkedIn:** [Add your LinkedIn profile
-    URL](https://www.linkedin.com/)
-
+-   **GitHub:** https://github.com/Madhan649
+-   **LinkedIn:** https://www.linkedin.com/in/madhan-raj-g-b13909317
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 ⭐ **"Great software is built with curiosity, tested with precision, and
 improved through continuous learning."**
 :::
